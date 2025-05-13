@@ -21,7 +21,7 @@ This project presents a detailed interactive **Sales Dashboard** built using **P
 ![Global Sales Dashboard](Dashboard.png)
 
 
-[Download Global Sales Dashboard Project (.pbix)](./Global%20Sales%20Dashboard%20Project.pbix)
+[ Global Sales Dashboard Project (.pbix)](./Global%20Sales%20Dashboard%20Project.pbix)
 
 ---
 
